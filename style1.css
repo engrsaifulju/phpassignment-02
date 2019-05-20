@@ -1,0 +1,159 @@
+*{margin:0;padding:0;outline:0;}
+body{font-family:arial; font-size:14px; line-height:18px; color:#333;background:#ECE9D7;}
+.template{width:960px; margin:0 auto;}
+.clear{overflow:hidden;}
+.bodysection{
+background: #FFFFFF;
+height: 820px;
+}
+.headersite{
+	height:65px;
+	
+	background:#343235;
+}
+.header h2{
+	font-size:40px;
+	line-height:65px;
+	text-align: center;
+}
+
+.header a{
+	text-decoration: none;
+	color: #6CFBFF;
+}
+
+.header a:hover{
+	color: #EE0000;
+}
+
+.navsection{
+	height: 50px;
+	background: rgb(125, 255, 108);
+	margin-top: 10px;
+	
+}
+.nav{
+	text-align: center;
+	padding-top: 15px;
+}
+
+.nav p{
+	font-size: 16px;
+}
+
+.nav a{
+	text-decoration: none;
+	text-align: justify;
+}
+
+.nav a:hover ,#active{
+	color: #FFC800;
+}
+
+.mainsection{
+	height:480px;
+	margin-top: 10px;
+	
+	
+}
+.contentsection{
+	float: left;
+	background: #FFFFFF;
+	width: 480px;
+	height: 500px;
+}
+
+.contentsection h2{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	border-bottom: 2px dashed #6CFBFF;
+	margin: 0px 100px;
+	font-size: 30px;
+}
+
+.contentsection p{
+	font-size: 16px;
+	margin: 30px;
+	text-align: justify;
+}
+
+
+.contentsection2{
+	float: right;
+	background: #FFFFFF;
+	width: 480px;
+	height: 500px;
+}
+
+
+.contentsection2 h2{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	border-bottom: 2px dashed #6CFBFF;
+	margin: 0px 70px;
+	font-size: 30px;
+}
+
+.contentsection2 p{
+	font-size: 16px;
+	margin: 30px;
+	text-align: justify;
+}
+
+
+
+
+.dessection{
+	background: #FFFFFF;
+	margin-bottom: 10px;
+}
+
+.dessite{
+	padding: 10px 30px;
+	font-size: 18px;
+}
+
+.dessite h3{
+	text-align: center;
+	font-size: 30px;
+	padding-bottom: 10px;
+	border-bottom: 2px dashed #A14A3F;
+	margin: 0px 260px;
+}
+
+.dessite p{
+	text-align: justify;
+	margin-bottom: 5px;
+	padding-top: 15px;
+}
+
+.footersection{
+	background: #000;
+	height: 60px;
+}
+
+.footer{
+	
+	
+}
+
+.footer p{
+	text-align: center;
+	padding-top: 15px;
+	font-size: 25px;
+	color: #398CD6;
+}
+.footer a{
+	
+	color: #6CFBFF;
+	text-decoration: none;
+}
+.footer a:hover{
+	color: #F6F6F6;
+}
+
+
+
+
